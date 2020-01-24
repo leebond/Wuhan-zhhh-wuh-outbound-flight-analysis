@@ -1,5 +1,5 @@
 # Wuhan Outbound Flights Analysis
-### Analyzing outbound flights from Wuhan Tianhe airport WUH ZHHH
+### Analyzing outbound flights from Wuhan Tianhe airport WUH ZHHH of a single day
 
 ### Data
 Each record is a receiver message json row
