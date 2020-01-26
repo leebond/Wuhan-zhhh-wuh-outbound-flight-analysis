@@ -19,3 +19,6 @@ Data contains only messages received on 2 Jan 2020
 - Top operating airline to SG
 - Top model of airplanes to SG
 - ... (more)
+
+### Simulation Model
+The model employed is a SEIR epidemic model without vitals where S stands for susceptible, E for exposed, I for infected and R for recovered
