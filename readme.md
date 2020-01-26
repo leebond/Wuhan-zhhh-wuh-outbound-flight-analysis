@@ -22,3 +22,8 @@ Data contains only messages received on 2 Jan 2020
 
 ### Simulation Model
 The model employed is a SEIR epidemic model without vitals where S stands for susceptible, E for exposed, I for infected and R for recovered
+
+#### Model conclusions
+By 13 March, if the spread of virus is not controlled, the model suggests a total of almost 1 million patients infected with Wuhan virus in SG.
+
+Limitations: The SEIR model includes imported infections that are from flights that are currently still in operation. In addition, these flights miss out on others connecting or direct routes from cities affected with Wuhan virus.
